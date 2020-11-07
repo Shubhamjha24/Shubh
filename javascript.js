@@ -2,6 +2,6 @@ javascript is the first programming language that i learnt with great enthusiasm
 
 
 
-thank you
+
 Regards(Shubham Jha)
 
